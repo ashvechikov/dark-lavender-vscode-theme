@@ -1,0 +1,21 @@
+{
+  "name": "dark-lavender",
+  "displayName": "Dark Lavender",
+  "description": "Dark Theme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Lavender",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Lavender-color-theme.json"
+      }
+    ]
+  }
+}
